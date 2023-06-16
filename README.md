@@ -1,1 +1,1 @@
-# glam-zone-shop.github.io
+# glam-zone-shop
